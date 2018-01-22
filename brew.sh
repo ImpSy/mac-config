@@ -17,6 +17,7 @@ brew cask install caffeine
 brew cask install slack
 brew cask install caskroom/versions/istat-menus5
 brew cask install keeweb
+brew cask install spotify
 
 pip install --upgrade pipenv
 pip install --upgrade ansible
@@ -26,3 +27,4 @@ pip install --upgrade awscli
 code --install-extension ms-python.python
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension lukehoban.go
+code --install-extension vscodevim.vim
