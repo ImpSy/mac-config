@@ -2,6 +2,7 @@ brew tap caskroom/cask
 brew install git
 brew install python3
 brew install go
+brew install dep
 brew install jq
 
 brew cask install iterm2
