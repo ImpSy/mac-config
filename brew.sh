@@ -19,6 +19,7 @@ brew cask install slack
 brew cask install caskroom/versions/istat-menus5
 brew cask install keeweb
 brew cask install spotify
+brew cask install dashlane
 
 pip install --upgrade pipenv
 pip install --upgrade ansible
