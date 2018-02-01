@@ -5,6 +5,7 @@ brew install go
 brew install dep
 brew install jq
 brew install kubectl
+brew install tmux
 
 brew cask install iterm2
 brew cask install firefox
