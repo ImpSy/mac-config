@@ -4,6 +4,7 @@ brew install python3
 brew install go
 brew install dep
 brew install jq
+brew install kubectl
 
 brew cask install iterm2
 brew cask install firefox
@@ -20,6 +21,8 @@ brew cask install caskroom/versions/istat-menus5
 brew cask install keeweb
 brew cask install spotify
 brew cask install dashlane
+brew cask install virtualbox
+brew cask install minikube
 
 pip install --upgrade pipenv
 pip install --upgrade ansible
