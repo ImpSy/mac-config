@@ -5,6 +5,8 @@ brew install go
 brew install dep
 brew install jq
 brew install kubectl
+brew install kubernetes-helm
+brew install mysql
 
 brew cask install iterm2
 brew cask install firefox
@@ -23,12 +25,15 @@ brew cask install spotify
 brew cask install dashlane
 brew cask install virtualbox
 brew cask install minikube
+brew cask install coconutbattery
 
 pip install --upgrade pipenv
 pip install --upgrade ansible
 pip install --upgrade boto3
+pip install --upgrade boto
 pip install --upgrade awscli
 pip install --upgrade flake8
+pip install --upgrade yamllint
 
 code --install-extension ms-python.python
 code --install-extension robertohuertasm.vscode-icons
