@@ -7,6 +7,7 @@ brew install jq
 brew install kubectl
 brew install kubernetes-helm
 brew install mysql
+brew install tmux
 
 brew cask install iterm2
 brew cask install firefox
