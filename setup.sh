@@ -6,3 +6,6 @@ echo "for i in $HOME/.sourced/*" >> ~/.zshrc
 echo "do" >> ~/.zshrc
 echo "    . \$i" >> ~/.zshrc
 echo "done" >> ~/.zshrc
+
+which brew
+brew bundle
