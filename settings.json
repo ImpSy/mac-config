@@ -2,9 +2,5 @@
     "workbench.iconTheme": "vscode-icons",
     "window.restoreFullscreen": true,
     "window.newWindowDimensions": "fullscreen",
-    "python.linting.flake8Path": "/usr/local/bin/flake8",
-    "python.linting.flake8Enabled": true,
-    "python.linting.pylintEnabled": false,
     "workbench.startupEditor": "none",
-    "python.pythonPath": "user/local/bin/python2.7"
 }
