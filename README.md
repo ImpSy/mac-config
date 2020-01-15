@@ -1,3 +1,3 @@
 # mac-config
 
-This repo as only for vocation to automate a mac setup
+This repo has only for vocation to automate a mac setup
